@@ -16,3 +16,5 @@ La aplicación debe permitir a los usuarios añadir y ver reseñas para cada nov
 ### *6. Interfaz de Usuario:*
 La interfaz debe ser intuitiva y fácil de usar. Utilizar vistas y layouts apropiados para organizar los elementos de la interfaz de usuario.
 
+## **Aclaraciones**
+El proyecto está incompleto ya que he tenido muchos problemas con la ejecución de la aplicación
