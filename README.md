@@ -1,4 +1,4 @@
-# Feedback 1 Programación dirigida por Eventos: Aplicación de gestión de novelas
+# Feedback 2 Programación dirigida por Eventos: Aplicación de gestión de novelas (actualizada)
 ### Enlace al repositorio: https://github.com/itsedupablo/Feedback1-Prog.Eventos
 ## **Descripción de la tarea**
 El objetivo de este ejercicio es desarrollar una aplicación Android que permita a los usuarios gestionar una lista de novelas. Esto incluye agregar nuevas novelas, eliminar las existentes y ver detalles de cada una. Además, los usuarios podrán marcar sus novelas favoritas y añadir reseñas. Este ejercicio aplicará los conocimientos adquiridos durante la unidad didáctica.
