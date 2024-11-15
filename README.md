@@ -28,4 +28,6 @@ En esta pantalla se debe dar acceso a todas las operaciones CRUD con la base de 
 ### *4. Pantalla Favoritos:*
 En esta pantalla definida también por una activity se muestran en forma de lista igual que en la pantalla principal las novelas que han sido previamente marcadas como favoritas. 
 ### *5. Vista de Detalles:*
-En esta "mini" pantalla definida con un fragment el usuario puede ver la información almacenada en la BD de cada novela que seleccione.
+En esta "mini" pantalla definida con un fragment el usuario puede ver la información almacenada en la BD de cada novela que seleccione sin salir de la Pantalla Principal.
+### *6. Vista de Reseñas:*
+En esta "mini" pantalla definida con un fragment el usuario puede dejar reseñas en las novelas almacenadas en la BD que seleccione sin salir de la Pantalla Principal.
