@@ -27,3 +27,5 @@ Esta pantalla es la siguiente en aparecer una vez se ha cargado la app. En ella 
 En esta pantalla se debe dar acceso a todas las operaciones CRUD con la base de datos de novelas. El usuario puede ver una lista con las novelas añdidas y añadir nuevas novelas presionando el botón "Agregar Novela" y acceder a las marcadas como favoritas presionando "Ver Favoritos". Para añadir novelas a favoritos, eliminarlas y ver detalles de cada una, se debe presionar las novelas de la lista y aparecerá un menú desplegable con estas opciones.
 ### *4. Pantalla Favoritos:*
 En esta pantalla definida también por una activity se muestran en forma de lista igual que en la pantalla principal las novelas que han sido previamente marcadas como favoritas. 
+### *5. Vista de Detalles:*
+En esta "mini" pantalla definida con un fragment el usuario puede ver la información almacenada en la BD de cada novela que seleccione.
