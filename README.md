@@ -24,10 +24,3 @@ Esta pantalla es la siguiente en aparecer una vez se ha cargado la app. En ella 
 ### *3. Pantalla Principal:*
 En esta pantalla se debe dar acceso a todas las operaciones CRUD con la base de datos de novelas. La idea es agregar botones para agregar y eliminar novelas, además de mostrar una vista con las novelas ya añadidas, a las que se podrá acceder para modificar información propia o añadir reseñas. Hace uso del servicio de firestore (BD de Firebase), y está definida por la clase **MainActivity.java**, y los archivos xml activity_main y agregar_novela_dialog.
 
-## **SIN IMPLEMENTAR** 
-### Faltan por añadir funcionalidades y aún no funciona correctamente la opción de añadir novelas (que es la única implementada de momento), aunque si deja interactuar con las cajas de texto para añadir información de las novelas. Faltaría solucionar lo anteriormente dicho y tratar de añadir los siguientes servicios de firebase:
-### - Firebase Cloud Messaging (FCM): Para enviar notificaciones push a los usuarios, por ejemplo, cuando se agregan nuevas novelas o se actualizan comentarios.
-### - Firebase Analytics: Para obtener información sobre el uso de la aplicación y el comportamiento de los usuarios.
-### - Firebase Crashlytics: Para monitorear y reportar fallos en la aplicación, ayudando a mejorar la estabilidad y la experiencia del usuario. (aún por ver si es necesario)
-
-
