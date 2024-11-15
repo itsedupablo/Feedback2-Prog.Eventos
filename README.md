@@ -1,7 +1,7 @@
 # Feedback 3 Programación dirigida por Eventos: Aplicación de gestión de novelas (actualizada)
 ### Enlace al repositorio: https://github.com/itsedupablo/Feedback3-Prog.Eventos
 ## **IMPORTANTE: Sobre las entregas de feedbacks**
-En este repositorio estoy subiendo el proyecto completo de "Gestion Novelas" entrega tras entrega y es el único que existe ahora mismo habilitado para ello, lo que significa que solo hay una única versión subida de el mismo (la más reciente que se corresponde con la última entrega). Entonces este proyecto incluye la versión final y las de las anteriores entregas "Feedback".
+En este repositorio estoy subiendo el proyecto completo de "Gestion Novelas" entrega tras entrega y es el único que existe ahora mismo habilitado para ello, lo que significa que solo hay una única versión subida de el mismo (la más reciente que se corresponde con la última entrega). Entonces este proyecto incluye la versión final y las de las anteriores entregas "Feedback" todo unificado.
 ## **Descripción de la tarea**
 El objetivo de este ejercicio es desarrollar una aplicación Android que permita a los usuarios gestionar una lista de novelas. Esto incluye agregar nuevas novelas, eliminar las existentes y ver detalles de cada una. Además, los usuarios podrán marcar sus novelas favoritas y añadir reseñas. Este ejercicio aplicará los conocimientos adquiridos durante la unidad didáctica.
 ## **Instrucciones**
