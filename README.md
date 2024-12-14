@@ -1,4 +1,4 @@
-# Feedback 5 Programación dirigida por Eventos: Aplicación de gestión de novelas (actualizada)
+# Feedback 6 Programación dirigida por Eventos: Aplicación de gestión de novelas (actualizada)
 ### Enlace al repositorio: https://github.com/itsedupablo/Feedback3-Prog.Eventos
 ## **IMPORTANTE: Sobre las entregas de feedbacks**
 En este repositorio estoy subiendo el proyecto completo de "Gestion Novelas" entrega tras entrega y es el único que existe ahora mismo habilitado para ello, lo que significa que solo hay una única versión subida de el mismo (la más reciente que se corresponde con la última entrega). Entonces este proyecto incluye la versión final y las de las anteriores entregas "Feedback" todo unificado.
@@ -29,5 +29,9 @@ En esta pantalla se debe dar acceso a todas las operaciones CRUD con la base de 
 En esta pantalla definida también por una activity se muestran en forma de lista igual que en la pantalla principal las novelas que han sido previamente marcadas como favoritas. 
 ### *5. Vista de Detalles:*
 En esta "mini" pantalla definida con un fragment el usuario puede ver la información almacenada en la BD de cada novela que seleccione sin salir de la Pantalla Principal.
-### *6. Vista de Reseñas:*
-En esta "mini" pantalla definida con un fragment el usuario puede dejar reseñas en las novelas almacenadas en la BD que seleccione sin salir de la Pantalla Principal.
+### *6. Pantalla de Ubicación*
+Esta pantalla permite al usuario ver su ubicación actual en un mapa (simulada). 
+### *7. Pantalla de Ubicación de Novelas*
+Esta pantalla permite al usuario ver la ubicación de una novela específica tras haberla añadido a la BD. La ubicación será la actual del dispositivo (simulada). 
+### *8. Pantalla de Mapa de Novelas*
+Esta pantalla permite al usuario ver la ubicación de todas las novelas en un mapa.
